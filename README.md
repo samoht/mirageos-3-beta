@@ -5,6 +5,8 @@ opam remote add mirage-3 https://github.com/mirage/mirageos-3-beta.git
 opam update
 ```
 
+If you've previously added a remote for `mirage-dev`, the staging repository which points to non-released versions of these packages, you'll need to remove it to use the tagged versions in the beta repository.
+
 Please note that remotes are global in `opam`, so once you have executed the commands above, any `opam upgrade` or `opam install` will consider the set of packages in this repository as fair game regardless of the active switch.  If you wish to keep a switch on the current stable MirageOS release, pin the versions of `mirage-types` and `mirage` in that switch:
 
 ```
