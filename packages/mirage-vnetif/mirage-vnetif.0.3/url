@@ -1,2 +1,2 @@
-http: "https://github.com/MagnusS/mirage-vnetif/archive/v0.3.tar.gz"
-checksum: "890bc2ac25caaf4ce0369f84c9ad5715"
+archive: "https://github.com/magnuss/mirage-vnetif/releases/download/v0.3/mirage-vnetif-0.3.tbz"
+checksum: "1381c6539bea3d4e4df45bf3da3438a2"

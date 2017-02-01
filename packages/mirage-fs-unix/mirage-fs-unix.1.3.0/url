@@ -1,2 +1,2 @@
-http: "https://github.com/mirage/mirage-fs-unix/archive/1.3.0.tar.gz"
-checksum: "1dd34e6c7ec1d39b652479dc9ac313bc"
+archive: "https://github.com/mirage/mirage-fs-unix/releases/download/1.3.0/mirage-fs-unix-1.3.0.tbz"
+checksum: "487cd422fdb3040e9d72e598ea02e387"

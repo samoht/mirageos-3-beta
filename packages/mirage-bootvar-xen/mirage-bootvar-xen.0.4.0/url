@@ -1,2 +1,2 @@
-http: "https://github.com/mirage/mirage-bootvar-xen/archive/0.4.0.tar.gz"
-checksum: "7b291c2332c549ba400f62803b0efa81"
+archive: "https://github.com/mirage/mirage-bootvar-xen/releases/download/0.4.0/mirage-bootvar-xen-0.4.0.tbz"
+checksum: "464459c0b1f83302f254a2b62184a7b1"

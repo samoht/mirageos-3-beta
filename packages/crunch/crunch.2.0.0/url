@@ -1,2 +1,2 @@
-http: "https://github.com/mirage/ocaml-crunch/archive/2.0.0.tar.gz"
-checksum: "990ae63798d87bc9aab7fcdcda7c63f0"
+archive: "https://github.com/mirage/ocaml-crunch/releases/download/2.0.0/crunch-2.0.0.tbz"
+checksum: "9764a599cbcb4ae4bce758f10d70cb8e"

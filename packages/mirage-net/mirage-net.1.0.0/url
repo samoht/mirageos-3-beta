@@ -1,2 +1,2 @@
-http: "https://github.com/mirage/mirage-net/archive/1.0.0.tar.gz"
-checksum: "072326485aa22be4105bd299d8e5277e"
+archive: "https://github.com/mirage/mirage-net/releases/download/1.0.0/mirage-net-1.0.0.tbz"
+checksum: "88a3c848b5e7a16973c4161bb304aa52"
