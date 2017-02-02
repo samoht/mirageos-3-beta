@@ -1,2 +1,2 @@
-http: "https://github.com/mirage/mirage-time/archive/1.0.0.tar.gz"
-checksum: "43b34abe9b7c73efdbbe47961afd5244"
+archive: "https://github.com/mirage/mirage-time/releases/download/1.0.0/mirage-time-lwt-1.0.0.tbz"
+checksum: "191dcbbef64515c3a2663441a31b2087"

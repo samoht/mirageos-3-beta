@@ -1,2 +1,2 @@
-http: "https://github.com/mirage/ocaml-fat/archive/0.12.0.tar.gz"
-checksum: "39b29df9cf1fe291001e804d159c271e"
+archive: "https://github.com/mirage/ocaml-fat/releases/download/0.12.0/fat-filesystem-0.12.0.tbz"
+checksum: "e69c9b1490cc9c6d16926d683c01b158"
